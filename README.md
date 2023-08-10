@@ -1,4 +1,4 @@
-# UCS-AStar
+# UCS-AStar Cube Game
  This project highlights how UCS and A* algorithms differ in speed and the number of expansions they need.
 
 The point of the game is to reach a final state in which all the given cubes are placed correctly.
